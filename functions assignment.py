@@ -27,7 +27,3 @@ if fahrenheit <= 70:
     print("Brrrr!")
 
 print("\nAva Iannone")
-
-
-
-
